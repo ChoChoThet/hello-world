@@ -1,4 +1,5 @@
 # hello-world
 Just another repository
-hi every body 
-I love code
+hi everybody 
+Welcome to my github
+
